@@ -1,0 +1,159 @@
+# Core web framework and API
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+streamlit==1.28.1
+
+# Data processing and analysis
+pandas==2.1.3
+numpy==1.24.3
+scikit-learn==1.3.2
+
+# Visualization
+plotly==5.17.0
+matplotlib==3.8.2
+seaborn==0.13.0
+
+# Machine Learning and Deep Learning
+torch==2.1.1
+tensorflow==2.15.0
+transformers==4.35.2
+sentence-transformers==2.2.2
+
+# LLM and AI
+openai==1.3.7
+langchain==0.0.350
+tiktoken==0.5.1
+
+# Vector search and embeddings
+faiss-cpu==1.7.4
+chromadb==0.4.18
+
+# Explainability and interpretability
+shap==0.44.0
+lime==0.2.0.1
+captum==0.6.0
+
+# Document processing
+python-docx==1.1.0
+PyPDF2==3.0.1
+pymupdf==1.23.8
+
+# HTTP requests and API
+requests==2.31.0
+httpx==0.25.2
+
+# Data validation and serialization
+pydantic==2.5.0
+marshmallow==3.20.1
+
+# File handling and utilities
+python-multipart==0.0.6
+aiofiles==23.2.1
+pathlib2==2.3.7
+
+# Database and storage
+sqlalchemy==2.0.23
+alembic==1.13.1
+
+# Configuration and environment
+python-dotenv==1.0.0
+pyyaml==6.0.1
+
+# Testing
+pytest==7.4.3
+pytest-asyncio==0.21.1
+pytest-cov==4.1.0
+
+# Development and linting
+black==23.11.0
+flake8==6.1.0
+mypy==1.7.1
+
+# Jupyter and notebooks
+jupyter==1.0.0
+ipykernel==6.26.0
+
+# Additional utilities
+tqdm==4.66.1
+joblib==1.3.2
+scipy==1.11.4
+statsmodels==0.14.0
+
+# Security
+cryptography==41.0.8
+passlib==1.7.4
+
+# Logging and monitoring
+structlog==23.2.0
+prometheus-client==0.19.0
+
+# Async support
+asyncio-mqtt==0.16.1
+aiohttp==3.9.1
+
+# Image processing (for future features)
+Pillow==10.1.0
+opencv-python==4.8.1.78
+
+# Audio processing (for future features)
+librosa==0.10.1
+soundfile==0.12.1
+
+# Geospatial (for future features)
+geopandas==0.14.1
+folium==0.15.1
+
+# Time series (for future features)
+prophet==1.1.4
+arch==6.2.0
+
+# Optimization
+optuna==3.4.0
+hyperopt==0.2.7
+
+# Model serving
+mlflow==2.8.1
+bentoml==1.0.20
+
+# Monitoring and observability
+wandb==0.16.1
+tensorboard==2.15.1
+
+# API documentation
+fastapi-pydantic==1.0.0
+fastapi-utils==0.2.1
+
+# CORS and middleware
+fastapi-cors==0.0.6
+
+# Rate limiting
+slowapi==0.1.9
+
+# Caching
+redis==5.0.1
+cachetools==5.3.2
+
+# Background tasks
+celery==5.3.4
+flower==2.0.1
+
+# Web scraping (for data collection)
+beautifulsoup4==4.12.2
+selenium==4.15.2
+
+# Data validation
+cerberus==1.3.5
+marshmallow-dataclass==8.5.8
+
+# Configuration management
+hydra-core==1.3.2
+omegaconf==2.3.0
+
+# Type checking
+types-requests==2.31.0.10
+types-PyYAML==6.0.12.12
+
+# Development dependencies
+pre-commit==3.6.0
+bandit==1.7.5
+safety==2.3.5 
